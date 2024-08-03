@@ -49,26 +49,7 @@ NewTV_超级电影「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 NewTV_超级电视剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV_超级体育「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTV_超级综艺「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-NewTV_金牌综艺「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NewTV_东北热剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-NewTV_古装剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV_欢乐剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-NewTV_怡伴健康「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-NewTV_潮妈辣婆「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTV_军旅剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV_军事评论「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV_中国功夫「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-NewTV_农业致富「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-NewTV_动作电影「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NewTV_家庭剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV_惊悚悬疑「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV_武博世界「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-NewTV_炫舞未来「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-NewTV_爱情喜剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV_精品萌宠「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-NewTV_精品体育「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-NewTV_精品大剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV_精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+
 
 体育「IPV6」,#genre#
 咪咕运动「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
@@ -121,8 +102,6 @@ BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
-
-
 
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
@@ -189,62 +168,6 @@ BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
-埋堆堆,#genre#
-埋堆堆_𝟙,http://live.iill.top/huya.php?id=23740156
-埋堆堆_𝟚,http://live.iill.top/huya.php?id=23749096
-埋堆堆_𝟛,http://live.iill.top/huya.php?id=23735126
-埋堆堆_𝟜,http://live.iill.top/huya.php?id=23903123
-埋堆堆_𝟝,http://live.iill.top/huya.php?id=23734169
-埋堆堆_𝟞,http://live.iill.top/huya.php?id=23863804
-埋堆堆_𝟟,http://live.iill.top/huya.php?id=23865080
-埋堆堆_𝟠,http://live.iill.top/huya.php?id=23864973
-埋堆堆_𝟡,http://live.iill.top/huya.php?id=23903130
-埋堆堆_𝟙𝟘,http://live.iill.top/huya.php?id=23860039
-埋堆堆_𝟙𝟙,http://live.iill.top/huya.php?id=23903183
-埋堆堆_𝟙𝟚,http://live.iill.top/huya.php?id=23903196
-埋堆堆_𝟙𝟛,http://live.iill.top/huya.php?id=23728674
-埋堆堆_𝟙𝟜,http://live.iill.top/huya.php?id=23865036
-埋堆堆_𝟙𝟝,http://live.iill.top/huya.php?id=23829543
-埋堆堆_𝟙𝟞,http://live.iill.top/huya.php?id=23865161
-埋堆堆_𝟙𝟟,http://live.iill.top/huya.php?id=23865058
-埋堆堆_𝟙𝟠,http://live.iill.top/huya.php?id=23824164
-埋堆堆_𝟙𝟡,http://live.iill.top/huya.php?id=23863796
-埋堆堆_𝟚𝟘,http://live.iill.top/huya.php?id=23734183
-埋堆堆_𝟚𝟙,http://live.iill.top/huya.php?id=23728660
-埋堆堆_𝟚𝟚,http://live.iill.top/huya.php?id=23865142
-埋堆堆_𝟚𝟛,http://live.iill.top/huya.php?id=23734246
-埋堆堆_𝟚𝟜,http://live.iill.top/huya.php?id=23865171
-埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
-埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
-
-•影视,#genre#
-音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
-音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
-治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
-阅读•学习「音乐」,http://live.iill.top/huya.php?id=21241813
-电视剧•1「解说」,http://live.iill.top/huya.php?id=21277391
-电视剧•2「解说」,http://live.iill.top/huya.php?id=25018873
-电影•1「解说」,http://live.iill.top/huya.php?id=20289754
-电影•2「解说」,http://live.iill.top/huya.php?id=24983280
-电影•3「解说」,http://live.iill.top/huya.php?id=24396428
-动漫•1「解说」,http://live.iill.top/huya.php?id=19757963
-恐怖电影「解说」,http://live.iill.top/huya.php?id=23419131
-漫威「解说」,http://live.iill.top/huya.php?id=17089779
-美剧「解说」,http://live.iill.top/huya.php?id=20488841
-七龙珠「解说」,http://live.iill.top/huya.php?id=25650806
-止戈电影「解说」,http://live.iill.top/huya.php?id=19863777
-挨饿德•1「其他」,http://live.iill.top/huya.php?id=20985858
-挨饿德•2「其他」,http://live.iill.top/huya.php?id=17693860
-互扇巴掌大赛「其他」,http://live.iill.top/huya.php?id=20072873
-荒野求生「其他」,http://live.iill.top/huya.php?id=593667
-野行者「其他」,http://live.iill.top/huya.php?id=20072663
-跳舞「其他」,http://live.iill.top/huya.php?id=24634408
-茶啊二中「动画」,http://live.iill.top/huya.php?id=11213191
-哆啦A梦「动漫」,http://live.iill.top/huya.php?id=11601963
-航海王「动漫」,http://live.iill.top/huya.php?id=16913382
-七龙珠「动漫」,http://live.iill.top/huya.php?id=11601966
-猫和老鼠「动漫」,http://live.iill.top/huya.php?id=11352879
-中华小当家「动漫」,http://live.iill.top/huya.php?id=11342413
 
 咪咕频道,#genre#
 咪咕直播-1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
